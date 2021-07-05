@@ -14,4 +14,5 @@ using namespace std;
      {
          cout<<n<<" is ODD";
      }
+  return 0;
  }

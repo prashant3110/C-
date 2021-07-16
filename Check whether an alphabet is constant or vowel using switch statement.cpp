@@ -32,5 +32,5 @@ int main()
         default: cout<<"It is a constant";
     }
     
-    return 0;
+    return 0 ;
 }

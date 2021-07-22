@@ -6,9 +6,9 @@
 ![alt-text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26f_bUqRTUeihSma8zXVjMtZcMNxhjIS3Vw&usqp=CAU)
 
 <table>
-<th>
- <td>S. NO.</td>
- <td>Program Name</td>
- <td>Link</td>
- </th>
+ <tr>
+ <th>S. NO.</th>
+ <th>Program Name</th>
+ <th>Link</th>
+ </tr>
  </table>

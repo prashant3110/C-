@@ -116,6 +116,12 @@
  </tr>
 
 
+  <tr>
+  <td>18</td>
+  <td>Floyd's Triangle pattern</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/101d584fdb4b2886d5bb102bdf99b9d3a113fa9c/Patterns/Floyd's%20Triangle%20pattern.cpp">Click</a></td>
+ </tr>
+
 
 
 

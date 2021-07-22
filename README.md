@@ -73,7 +73,7 @@
  </tr>
 
   <tr>
- 	<td>11/td>
+ 	<td>11</td>
  	<td>Print all Prime numbers in a given range a and b</td>
  	<td><a href="https://github.com/prashant3110/CPP/blob/a590fb9a64f1256111ca67f03e5064be73a045b6/Print%20all%20Prime%20numbers%20in%20a%20given%20range%20a%20and%20b.cpp">Click</a></td>
  </tr>

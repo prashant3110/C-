@@ -18,6 +18,12 @@
  	<td><a href="https://github.com/prashant3110/CPP/blob/7a122fddabac1276d76e9c1b4e9d9ab705ce0877/Hello%20World.cpp">Code</a></td>
  </tr>
 
+  <tr>
+ 	<td>2</td>
+ 	<td>Check even or odd.cpp</td>
+ 	<td><a href="https://github.com/prashant3110/CPP/blob/8aeb6f93b87c0d97b64d98deba7650a7367daec4/Check%20even%20or%20odd.cpp">Code</a></td>
+ </tr>
+
 
 
 

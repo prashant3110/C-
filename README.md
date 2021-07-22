@@ -6,8 +6,9 @@
 ![alt-text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26f_bUqRTUeihSma8zXVjMtZcMNxhjIS3Vw&usqp=CAU)
 
 <table>
-<tr>
+<th>
  <td>S. NO.</td>
  <td>Program Name</td>
- </tr>
+ <td>Link</td>
+ </th>
  </table>

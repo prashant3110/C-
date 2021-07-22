@@ -96,6 +96,17 @@
  	<td><a href="https://github.com/prashant3110/CPP/blob/a590fb9a64f1256111ca67f03e5064be73a045b6/Program%20to%20print%20number%201-100%20which%20are%20not%20divisible%20by%203.cpp">Click</a></td>
  </tr>
 
+<tr>
+  <td>15</td>
+  <td>Rectangular Pattern</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/058b9803c2882766466b4b75fe5c1b6b5998ed20/Patterns/Rectangular%20Pattern.cpp">Click</a></td>
+ </tr>
+
+ <tr>
+  <td>16</td>
+  <td>Hollow rectangular pattern</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/058b9803c2882766466b4b75fe5c1b6b5998ed20/Patterns/Hollow%20rectangular%20pattern.cpp">Click</a></td>
+ </tr>
   
 
 

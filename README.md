@@ -109,6 +109,12 @@
  </tr>
   
 
+  <tr>
+  <td>17</td>
+  <td>Inverted Half Pyramid pattern</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/180460cd06b8cf2b73b5f049669b8143f99fe3f5/Patterns/Inverted%20Half%20Pyramid%20pattern.cpp">Click</a></td>
+ </tr>
+
 
 
 

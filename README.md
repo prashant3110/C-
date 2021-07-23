@@ -123,7 +123,7 @@
  </tr>
 
    <tr>
-  <td>18</td>
+  <td>19</td>
   <td>Half pyramid using numbers pattern</td>
   <td><a href="https://github.com/prashant3110/CPP/blob/081a9a99b208c2b90b89cc004a6f0494d985d221/Patterns/Half%20Pyramid%20using%20numbers.cpp">Click</a></td>
  </tr>

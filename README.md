@@ -181,6 +181,17 @@
   <td><a href="https://github.com/prashant3110/CPP/blob/abf53a2c58ff503211292e484fd71736a72e8527/Patterns/zig%20zag%20pattern.cpp">Click</a></td>
  </tr>
 
+<tr>
+  <td>28</td>
+  <td>Program to reverse given number</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/a3697f3c7cdf9d380dd22635c586de8b5ebae387/Program%20to%20reverse%20given%20number.cpp">Click</a></td>
+ </tr>
+
+<tr>
+  <td>29</td>
+  <td>Check whether given number is armstrong or not</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/a3697f3c7cdf9d380dd22635c586de8b5ebae387/Check%20whether%20given%20number%20is%20armstrong%20or%20not.cpp">Click</a></td>
+ </tr>
 
 
 

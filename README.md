@@ -128,15 +128,58 @@
   <td><a href="https://github.com/prashant3110/CPP/blob/081a9a99b208c2b90b89cc004a6f0494d985d221/Patterns/Half%20Pyramid%20using%20numbers.cpp">Click</a></td>
  </tr>
 
+<tr>
+  <td>20</td>
+  <td>0-1 pattern</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/abf53a2c58ff503211292e484fd71736a72e8527/Patterns/0-1%20pattern.cpp">Click</a></td>
+ </tr>
+
+
+<tr>
+  <td>21</td>
+  <td>Half Pyramid after 180 degree Rotation</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/abf53a2c58ff503211292e484fd71736a72e8527/Patterns/Half%20Pyramid%20after%20180%20degree%20Rotation.cpp">Click</a></td>
+ </tr>
+
+ <tr>
+  <td>22</td>
+  <td>Inverted number pattern</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/abf53a2c58ff503211292e484fd71736a72e8527/Patterns/Inverted%20number%20pattern.cpp">Click</a></td>
+ </tr>
 
 
 
 
+ <tr>
+  <td>23</td>
+  <td>Number pyramid pattern</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/abf53a2c58ff503211292e484fd71736a72e8527/Patterns/Number%20pyramid%20pattern.cpp">Click</a></td>
+ </tr>
 
 
+ <tr>
+  <td>24</td>
+  <td>Palindromic pattern</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/abf53a2c58ff503211292e484fd71736a72e8527/Patterns/Palindromic%20pattern.cpp">Click</a></td>
+ </tr>
 
+<tr>
+  <td>25</td>
+  <td>Rhombus pattern</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/abf53a2c58ff503211292e484fd71736a72e8527/Patterns/Rhombus%20pattern.cpp">Click</a></td>
+ </tr>
 
+ <tr>
+  <td>26</td>
+  <td>Star pattern</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/abf53a2c58ff503211292e484fd71736a72e8527/Patterns/Star%20pattern.cpp">Click</a></td>
+ </tr>
 
+<tr>
+  <td>27</td>
+  <td>zig zag pattern</td>
+  <td><a href="https://github.com/prashant3110/CPP/blob/abf53a2c58ff503211292e484fd71736a72e8527/Patterns/zig%20zag%20pattern.cpp">Click</a></td>
+ </tr>
 
 
 

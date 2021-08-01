@@ -26,7 +26,7 @@ int main()
     }
     
     cout<<"Max. : "<<maxno<<endl;
-    cout<<"Min. : "<<minno;
+    cout<<"Min. : "<<minno<<endl;
     
     return 0;
 }

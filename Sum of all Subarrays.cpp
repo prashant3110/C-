@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    cout<<"Enter n: ";
     int n;
     cin>>n;
     int a[n];

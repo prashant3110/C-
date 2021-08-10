@@ -1,5 +1,5 @@
 // Solution 1 
-//time complexity : O(n)
+//time complexity : O(n^2)
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -37,3 +37,8 @@ int main()
 
 return 0;   
 }
+
+
+
+//solution: 2
+//time complexity : O(n)

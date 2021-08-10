@@ -42,3 +42,7 @@ return 0;
 
 //solution: 2
 //time complexity : O(n)
+// For this array must  be sorted.
+
+
+

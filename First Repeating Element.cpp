@@ -35,5 +35,5 @@ int main()
     }
     
     minidx==INT_MAX ? cout<<"-1" : cout<<minidx;
-    
+    return 0;
 }

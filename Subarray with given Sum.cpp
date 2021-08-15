@@ -46,5 +46,5 @@ int main()
         j++;
     }
     
-    cout<<st<<" "<<en;
+    cout<<st<<","<<en;
 }

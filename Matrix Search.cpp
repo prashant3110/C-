@@ -1,6 +1,6 @@
 /* 
 for this approach rows and columns must be sorted
-Time Complexity= O(n)
+Time Complexity= O(n) 
 */   
 
 #include<bits/stdc++.h>

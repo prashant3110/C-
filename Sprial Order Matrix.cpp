@@ -60,6 +60,6 @@ int main()
         
         dia=(dia+1)%4;
     }
-    
+     
 return 0;
 }

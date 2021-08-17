@@ -40,7 +40,7 @@ int main()
             c--;
         }
         else
-        {
+        { 
             r++;
         }
     }

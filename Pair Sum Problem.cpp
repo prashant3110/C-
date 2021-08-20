@@ -80,7 +80,7 @@ int main()
         }
         else
         {
-            low++;
+            low++; 
         }
     }
     

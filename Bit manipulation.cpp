@@ -31,6 +31,7 @@ int main()
     int n=5;
     int pos=2;
     cout<<getbit(n,pos)<<endl;
+    cout<<setbit(n,pos)<<endl;
      
     return 0;
 }
